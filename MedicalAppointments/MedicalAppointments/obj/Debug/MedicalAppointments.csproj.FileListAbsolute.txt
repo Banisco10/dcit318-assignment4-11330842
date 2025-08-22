@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\PROJECTS\DCIT_318_ASSIGNMENT4\MedicalAppointments\MedicalAppointments\obj\Debug\MedicalAppointments.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\PROJECTS\DCIT_318_ASSIGNMENT4\MedicalAppointments\MedicalAppointments\obj\Debug\MedicalAppointments.Properties.Resources.resources
+C:\Users\DELL\Desktop\PROJECTS\DCIT_318_ASSIGNMENT4\MedicalAppointments\MedicalAppointments\obj\Debug\MedicalAppointments.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\PROJECTS\DCIT_318_ASSIGNMENT4\MedicalAppointments\MedicalAppointments\obj\Debug\MedicalAppointments.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\PROJECTS\DCIT_318_ASSIGNMENT4\MedicalAppointments\MedicalAppointments\obj\Debug\MedicalAppointments.AppointmentForm.resources
+C:\Users\DELL\Desktop\PROJECTS\DCIT_318_ASSIGNMENT4\MedicalAppointments\MedicalAppointments\obj\Debug\MedicalAppointments.MainForm.resources
+C:\Users\DELL\Desktop\PROJECTS\DCIT_318_ASSIGNMENT4\MedicalAppointments\MedicalAppointments\obj\Debug\MedicalAppointments.DoctorListForm.resources
+C:\Users\DELL\Desktop\PROJECTS\DCIT_318_ASSIGNMENT4\MedicalAppointments\MedicalAppointments\obj\Debug\MedicalAppointments.ManageAppointmentsForm.resources
+C:\Users\DELL\Desktop\PROJECTS\DCIT_318_ASSIGNMENT4\MedicalAppointments\MedicalAppointments\bin\Debug\MedicalAppointments.exe.config
+C:\Users\DELL\Desktop\PROJECTS\DCIT_318_ASSIGNMENT4\MedicalAppointments\MedicalAppointments\bin\Debug\MedicalAppointments.exe
+C:\Users\DELL\Desktop\PROJECTS\DCIT_318_ASSIGNMENT4\MedicalAppointments\MedicalAppointments\bin\Debug\MedicalAppointments.pdb
+C:\Users\DELL\Desktop\PROJECTS\DCIT_318_ASSIGNMENT4\MedicalAppointments\MedicalAppointments\obj\Debug\MedicalAppointments.exe
+C:\Users\DELL\Desktop\PROJECTS\DCIT_318_ASSIGNMENT4\MedicalAppointments\MedicalAppointments\obj\Debug\MedicalAppointments.pdb
+C:\Users\DELL\Desktop\PROJECTS\DCIT_318_ASSIGNMENT4\MedicalAppointments\MedicalAppointments\obj\Debug\MedicalAppointments.exe.config
