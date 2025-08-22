@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\PROJECTS\\DCIT_318_ASSIGNMENT4\\PharmacyApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63A3BA5C-4673-4791-883C-2E40F8AB8709}|PharmacyApp\\PharmacyApp.csproj|c:\\users\\dell\\desktop\\projects\\dcit_318_assignment4\\pharmacyapp\\pharmacyapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A3BA5C-4673-4791-883C-2E40F8AB8709}|PharmacyApp\\PharmacyApp.csproj|solutionrelative:pharmacyapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A3BA5C-4673-4791-883C-2E40F8AB8709}|PharmacyApp\\PharmacyApp.csproj|c:\\users\\dell\\desktop\\projects\\dcit_318_assignment4\\pharmacyapp\\pharmacyapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63A3BA5C-4673-4791-883C-2E40F8AB8709}|PharmacyApp\\PharmacyApp.csproj|solutionrelative:pharmacyapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\PROJECTS\\DCIT_318_ASSIGNMENT4\\PharmacyApp\\PharmacyApp\\MainForm.cs",
+              "RelativeDocumentMoniker": "PharmacyApp\\MainForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\PROJECTS\\DCIT_318_ASSIGNMENT4\\PharmacyApp\\PharmacyApp\\MainForm.cs",
+              "RelativeToolTip": "PharmacyApp\\MainForm.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAgwPQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T16:08:11.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\PROJECTS\\DCIT_318_ASSIGNMENT4\\PharmacyApp\\PharmacyApp\\MainForm.cs",
+              "RelativeDocumentMoniker": "PharmacyApp\\MainForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\PROJECTS\\DCIT_318_ASSIGNMENT4\\PharmacyApp\\PharmacyApp\\MainForm.cs [Design]",
+              "RelativeToolTip": "PharmacyApp\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T16:05:03.756Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

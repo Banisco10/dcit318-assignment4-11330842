@@ -1,0 +1,11 @@
+C:\Users\DELL\Desktop\PROJECTS\DCIT_318_ASSIGNMENT4\PharmacyApp\PharmacyApp\bin\Debug\PharmacyApp.exe.config
+C:\Users\DELL\Desktop\PROJECTS\DCIT_318_ASSIGNMENT4\PharmacyApp\PharmacyApp\bin\Debug\PharmacyApp.exe
+C:\Users\DELL\Desktop\PROJECTS\DCIT_318_ASSIGNMENT4\PharmacyApp\PharmacyApp\bin\Debug\PharmacyApp.pdb
+C:\Users\DELL\Desktop\PROJECTS\DCIT_318_ASSIGNMENT4\PharmacyApp\PharmacyApp\obj\Debug\PharmacyApp.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\PROJECTS\DCIT_318_ASSIGNMENT4\PharmacyApp\PharmacyApp\obj\Debug\PharmacyApp.MainForm.resources
+C:\Users\DELL\Desktop\PROJECTS\DCIT_318_ASSIGNMENT4\PharmacyApp\PharmacyApp\obj\Debug\PharmacyApp.Properties.Resources.resources
+C:\Users\DELL\Desktop\PROJECTS\DCIT_318_ASSIGNMENT4\PharmacyApp\PharmacyApp\obj\Debug\PharmacyApp.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\PROJECTS\DCIT_318_ASSIGNMENT4\PharmacyApp\PharmacyApp\obj\Debug\PharmacyApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\PROJECTS\DCIT_318_ASSIGNMENT4\PharmacyApp\PharmacyApp\obj\Debug\PharmacyApp.exe
+C:\Users\DELL\Desktop\PROJECTS\DCIT_318_ASSIGNMENT4\PharmacyApp\PharmacyApp\obj\Debug\PharmacyApp.pdb
+C:\Users\DELL\Desktop\PROJECTS\DCIT_318_ASSIGNMENT4\PharmacyApp\PharmacyApp\obj\Debug\PharmacyApp.exe.config
